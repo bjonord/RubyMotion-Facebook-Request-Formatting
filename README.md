@@ -1,6 +1,6 @@
 ## Disclaimer
 
-These files are part of my the first app I have created for iOS and is my first project built using Ruby and RubyMotion.
+These files are part of my first app created for iOS and is my first project built using both Ruby, Cocoa and RubyMotion.
 
 ## Facebook Request and Facebook Data Formatter
 
@@ -12,3 +12,4 @@ This app is built using:
 - Mac OSX 10.8
 - RubyMotion 1.20
 - Sublime Text 2
+- Cocoa Framework
